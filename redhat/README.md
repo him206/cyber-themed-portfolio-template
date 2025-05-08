@@ -20,12 +20,10 @@ A modern, responsive, and visually engaging **cybersecurity-themed portfolio web
 ## 🛠️ Built With
 
 - **HTML5**
-- **CSS3 (SASS/SCSS if used)**
+- **CSS**
 - **JavaScript**
 - **Responsive Web Design**
 - **Netlify** (for deployment)
-
----
 
 ---
 
