@@ -28,13 +28,26 @@ A modern, responsive, and visually engaging **cybersecurity-themed portfolio web
 ---
 
 ## 📂 Folder Structure (optional)
-cyber-portfolio/
+cyber-themed-portfolio-template/
+├── assets/                  # Images, icons, and other static assets
+│   ├── images/              # Portfolio images, background, illustrations
+│   └── icons/               # SVGs or icon packs
 │
-├── assets/ # Images, Icons, and Graphics
-├── css/ # Style files
-├── js/ # JavaScript files
-├── index.html # Main HTML file
-└── README.md # This file
+├── css/                     # All CSS or SCSS files
+│   ├── style.css            # Main stylesheet
+│   └── responsive.css       # Media queries and responsive styles (optional)
+│
+├── js/                      # JavaScript files
+│   └── main.js              # Custom JS logic (e.g., menu toggle, animations)
+│
+├── fonts/                   # Custom fonts (if any)
+│   └── ...
+│
+├── index.html               # Main landing page
+├── about.html               # (Optional) Separate about page
+├── contact.html             # (Optional) Separate contact page
+├── README.md                # Project documentation
+└── LICENSE                  # MIT or other license file (optional)
 
 ---
 
